@@ -3,9 +3,7 @@
 ### App Description
 Basic Hello World Program. Has funcitonalites to change the background and text color as well as update a text string with user input.
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
+### App Walk-through
 <img src="http://g.recordit.co/w1cW3YchoH.gif" width=200><br>
 
 
