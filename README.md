@@ -20,4 +20,4 @@ Basic Hello World Program. Has funcitonalites to change the background and text 
    - [X] a. User can enter text into a text field using the keyboard.
    - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [X] c. If the text field is empty, update label with default text string.
-   - [] d. The keyboard is dismissed after the button has been tapped.
+   - [ ] d. The keyboard is dismissed after the button has been tapped.
